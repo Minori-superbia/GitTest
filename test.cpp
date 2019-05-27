@@ -2,6 +2,7 @@
 {
 	printf("test");
 	printf("貝になりたい");
+	printf("帰りたい")
 	printf("(/・ω・)/ニャー");
 
 }
